@@ -1,0 +1,6 @@
+%:
+        dh $@
+
+# It's recommended to compress the package with xz:
+override_dh_builddeb:
+ dh_builddeb -- -Zxz -Sextreme -z9

@@ -1,0 +1,14 @@
+Source: fonts-sourcecodepro
+Section: fonts
+Maintainer: Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>
+Uploaders: Nguyễn Phan Hải <hainp2604@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+Package: fonts-sourcecodepro
+Architecture: all
+Depends: ${misc:Depends}
+Description: Source Code Pro is a set of OpenType fonts
+    that have been designed to work well in user interface (UI) environments.
+    In addition to a functional OpenType font, this open source project
+    provides all of the source files that were used to build this OpenType font
+    by using the AFDKO makeotf tool.
