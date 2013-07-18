@@ -1,7 +1,6 @@
 Source: fonts-source-code-pro
 Section: fonts
-Maintainer: Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>
-Uploaders: Nguyễn Phan Hải <hainp2604@gmail.com>
+Maintainer: Nguyễn Phan Hải <hainp2604@gmail.com>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.8.3
 
