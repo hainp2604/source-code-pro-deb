@@ -1,2 +1,2 @@
-*.otf usr/share/fonts/opentype/sourcecodepro
+source-code-pro/target/OTF/*.otf usr/share/fonts/opentype/sourcecodepro
 *.conf etc/fonts/conf.avail
