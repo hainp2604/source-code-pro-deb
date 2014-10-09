@@ -1,0 +1,4 @@
+*.log
+# ignore fonts source files:
+source-code-pro
+debian/fonts-source-code-pro*
