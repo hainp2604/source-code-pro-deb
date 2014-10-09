@@ -1,8 +1,6 @@
-## source-code-pro-deb
+## About
 
-Adobe Soucre Code Pro font package for Debian
-
-This is initial impl. for building them directly from git sources.
+Adobe Soucre Code Pro font package for Debian. This is the initial implementation building fonts directly from git sources.
 
 ## Requirements
 
